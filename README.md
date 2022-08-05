@@ -42,7 +42,6 @@ fetch(`${ENDPOINT_URI}/${PATH_URI}`, {
 response = {
   id: "144ef415-92a4-46fe-91ec-5e442cd69540",
   name: "User 133",
-  total_emails: 960,
   series: [
     {ts: 1629634975, v: 9} // ts = timestamp
     {ts: 1629721375, v: 52} // v = the number of emails received
