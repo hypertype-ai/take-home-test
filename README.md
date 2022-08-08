@@ -2,7 +2,7 @@
 
 Programming language: `Javascript`, `Python`, `Go`
 
-Use any librairies you like.
+Use any libraries you like.
 
 ⚠️ Document how to run the code and the tests.
 
